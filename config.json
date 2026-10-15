@@ -1,0 +1,17 @@
+{
+  "sheet_id": "16IOaMz2BN3FVEmW6yxOF4-9bvQQ8u5G7awETjp9W64k",
+  "seller": "에나스쿨님",
+  "app_name": "에나스쿨님 콘텐츠 캘린더",
+  "short_name": "에나스쿨님 콘텐츠 캘린더",
+  "icon_char": "에",
+  "year": 2026,
+  "per_tab": true,
+  "infer_year": "weekday",
+  "since": "2026-08-01",
+  "default_header": [
+    "일정",
+    "노출방식",
+    "비주얼 설명",
+    "비주얼"
+  ]
+}
